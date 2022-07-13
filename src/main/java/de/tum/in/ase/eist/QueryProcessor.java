@@ -18,6 +18,5 @@ public class QueryProcessor {
         }
     }
     //hallo
-    //wie gehts?
-    //gut und dir?
+
 }
